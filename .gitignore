@@ -1,0 +1,5 @@
+# Directory temp
+temp/dir/*.log
+
+# Files
+*.log
